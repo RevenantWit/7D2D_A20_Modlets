@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="RW_SimpleUI-CraftingQueue-A20"/>
+		<Description value="Adds an extra slot to the crafting queue"/>
+		<Author value="RevenantWit"/>
+		<Version value="2.0.0"/>
+	</ModInfo>
+</xml>
