@@ -2,8 +2,8 @@
 <xml>
 	<ModInfo>
 		<Name value="RW_SimpleUI-BB60-A20"/>
-		<Description value="Increases backpack size to 60 slots"/>
+		<Description value="Increases backpack size to 60 slots and adds lockable slots."/>
 		<Author value="RevenantWit"/>
-		<Version value="2.0.0"/>
+		<Version value="2.0.1"/>
 	</ModInfo>
 </xml>
