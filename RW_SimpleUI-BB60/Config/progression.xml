@@ -2,9 +2,9 @@
 	<!-- Adjust pack mule perk for the increased number of encumbered slots -->
 	<set xpath="/progression/perks/perk[@name='perkPackMule']/effect_group/passive_effect[@name='CarryCapacity']/@value">6,12,18,24,30</set>
 
-	<!-- Adjust Firemans Almanac book perk for the increased number of encumbered slots (set to max number of encumbered slots by default) -->
-	<set xpath="/progression/perks/book[@name='perkFiremansAlmanacComplete']/effect_group/passive_effect[@name='CarryCapacity']/@value">30</set>
+	<!-- Adjust Firemans Almanac perk for the increased number of encumbered slots (set to max number of encumbered slots by default) -->
+	<set xpath="/progression/perks/perk[@name='perkFiremansAlmanacComplete']/effect_group/passive_effect[@name='CarryCapacity']/@value">30</set>
 
-	<!-- Adjust Night Stalker book perk for the increased number of encumbered slots (set to max number of encumbered slots by default) -->
-	<set xpath="/progression/perks/book[@name='perkNightStalkerThiefAdrenaline']/effect_group/passive_effect[@name='CarryCapacity']/@value">30</set>
+	<!-- Adjust Night Stalker perk for the increased number of encumbered slots (set to max number of encumbered slots by default) -->
+	<set xpath="/progression/perks/perk[@name='perkNightStalkerThiefAdrenaline']/effect_group/passive_effect[@name='CarryCapacity']/@value">30</set>
 </configs>

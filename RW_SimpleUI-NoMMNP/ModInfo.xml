@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="RW_SimpleUI-NoMMNP-A20"/>
+		<Description value="Removes the news panel from the main menu"/>
+		<Author value="RevenantWit"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>

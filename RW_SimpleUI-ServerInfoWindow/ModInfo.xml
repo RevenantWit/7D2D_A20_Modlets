@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="RW_SimpleUI-ServerInfoWindow-A20"/>
+		<Description value="Adds a server info window with tabs, shows when hitting esc"/>
+		<Author value="RevenantWit"/>
+		<Version value="1.0.0"/>
+	</ModInfo>
+</xml>
